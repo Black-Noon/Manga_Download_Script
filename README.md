@@ -6,7 +6,7 @@
 
 ---
 
-#### *Manga Downlad Script* - простой скрипт, предназначеный для удобства скачивания манги с сайта https://mangabook.org
+#### *Manga Download Script* - простой скрипт, предназначеный для удобства скачивания манги с сайта https://mangabook.org
 
 ---
 
