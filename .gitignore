@@ -1,6 +1,5 @@
-/.idea
-/.vscode
-/venv
-/images
+/.idea/
+/venv/
+/images/
 README.MD
-
+LICENSE
