@@ -217,12 +217,7 @@ def main():
         print("-- Что-то пошло не так! Страница недоступна.--")
         print("-- Проверьте корректность ссылки и её работоспособность в браузере. --")
 
-    # for name in name_chapters:
-    #     data_zip = zipfile.ZipFile("{}\{}.zip".format(name_book, name), 'r')
-    #     data_zip.extractall(path="{}\{}".format(name_book, str(name_chapters.index(name))))
-    #     data_zip.close()
-
-
+        
 if __name__ == "__main__":
     print(r"-- Скрипт предназначен для загрузки манги с сайта http://mangabook.org/ --")
     main()
