@@ -1,6 +1,4 @@
-<img style="float: right;" src="images/logo.png">
-
----
+<img align="right" width="200" height="200" src="images/logo.png">
 
 # Manga Download Script
 
