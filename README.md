@@ -1,4 +1,9 @@
-![logo](images/logo.png)
+<img style="float: right;" src="images/logo.png">
+
+---
+
+# Manga Download Script
+
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pip?style=plastic) 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Black-Noon/Manga_Download_Script?color=dargreen&style=plastic) 
