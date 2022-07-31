@@ -72,7 +72,7 @@ def download(soup, download_class, ext):
         size = int(res.headers['content-length'])
         with tqdm.wrapattr(open("{}.{}".format(name, ext), "wb"), "write",
                            miniters=1, desc=name.ljust(64, " "),
-                           total=size, ncols=128) as file:
+                           total=size) as file:
             for chunk in res.iter_content(chunk_size=4096):
                 file.write(chunk)
     return name_chapters
