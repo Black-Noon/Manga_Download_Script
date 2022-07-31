@@ -26,6 +26,8 @@ pip install -r requirements.txt
 ```
 Скрипт написан под Win64, на остальных системах возможны ошибки из-за особенностей ОС, связанные с именами файлов и папок.
 
+Для совсем ленивых и простых обывателей добавил консольное приложение **MangaDownloadScript.exe**. Просто скачайте его и используйте.
+
 ## Demo
 
 Демонстрация работы скрипта
@@ -47,7 +49,8 @@ pip install -r requirements.txt
 ## Developing
 ### Built With
 
-Для наглядной работы скрипта была использована библиотека [tqdm](https://tqdm.github.io)
+Для наглядной работы скрипта была использована библиотека [tqdm](https://github.com/tqdm/tqdm)
+Для создания консольного приложения использовано [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 
 ## Licensing
 
