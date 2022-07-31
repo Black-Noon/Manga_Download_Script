@@ -50,6 +50,7 @@ pip install -r requirements.txt
 ### Built With
 
 Для наглядной работы скрипта была использована библиотека [tqdm](https://github.com/tqdm/tqdm)
+
 Для создания консольного приложения использовано [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 
 ## Licensing
